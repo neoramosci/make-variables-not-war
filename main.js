@@ -2,7 +2,19 @@
  * YOUR CODE BELOW *
  ******************/
 
+let myFirstName = 'Neo'
+let myLastName = ' Ramos'
+let myBestFriend = ' Eric'
+let mySentence = myFirstName + myLastName + myBestFriend 
+mySentence 
+let myFavoriteNum = 74
+let myMentalAge = 84 
+let myHeight = 68
+let myFavoriteYear = 1993 
 
+let mySum = 3 + 1918 + 24 + 1 
+let myProduct = 232 * 43 / 2 + 4 
+let myHeightAndAge = myMentalAge + myHeight
 
 
 
